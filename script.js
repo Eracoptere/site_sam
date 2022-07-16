@@ -36,14 +36,14 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ['Community Management', 'Chef de projet', 'Marketing'],
-        typeSpeed: 80,
+        typeSpeed: 70,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
         strings: ["du marketing", "de la communication", "de la gestion de projet"],
-        typeSpeed: 20,
+        typeSpeed: 40,
         backSpeed: 10,
         loop: true
     });

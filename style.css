@@ -715,4 +715,6 @@ footer span a:hover{
 
 .clc {
     font-size: 20px!important;
+    height: 15%!important;
+    border: 10px, solid, black;
 }
