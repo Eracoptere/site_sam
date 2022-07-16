@@ -36,7 +36,7 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ['Community Management', 'Chef de projet', 'Marketing'],
-        typeSpeed: 100,
+        typeSpeed: 80,
         backSpeed: 60,
         loop: true
     });
